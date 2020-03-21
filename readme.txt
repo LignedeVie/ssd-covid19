@@ -9,7 +9,7 @@ For installation:
 
 1. Copy all files to your master directory.
 2. Configure x_cfg.php ( database config )
-3. Go into yourdomain/install/create_database.php
+3. Go into yourdomain/admin/install/create_database.php
 4. Go into yourdomain/admin and log as an administrator:  login admin, password: admin
 5. After you are logged in - change the password and:
 
@@ -20,3 +20,4 @@ For configuration:
 - sanepid,
 - government and so on
 7. As an doctor than - you can use database, (same as medical services, sanepid and so on)
+
