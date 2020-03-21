@@ -2,7 +2,7 @@ This module is based and depends on the Datatables Editor an Datatables. You mus
 
 Working application for demo purposes (hackaton hackcrisis.com) you can find under: https://www.wirtualnyasystent.eu and https://www.wirtualnyasystent.eu/admin.
 
-More info are in Readme.pdf
+More info are in Project-description.pdf
 Than you can read the Diagnostic-algorithm.pdf
 
 For installation:
